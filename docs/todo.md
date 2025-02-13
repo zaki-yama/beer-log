@@ -4,7 +4,7 @@
 
 ### 1.1 Remixプロジェクトのセットアップ
 - [x] Remixプロジェクトの作成
-- [ ] TypeScriptの設定
+- [x] TypeScriptの設定
 - [ ] ESLint, Prettierの設定
 - [ ] VSCode設定（推奨拡張機能等）
 - [ ] GitHub Actionsの設定
