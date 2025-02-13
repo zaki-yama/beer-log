@@ -3,7 +3,7 @@
 ## 1. プロジェクトの初期セットアップ
 
 ### 1.1 Remixプロジェクトのセットアップ
-- [ ] Remixプロジェクトの作成
+- [x] Remixプロジェクトの作成
 - [ ] TypeScriptの設定
 - [ ] ESLint, Prettierの設定
 - [ ] VSCode設定（推奨拡張機能等）
