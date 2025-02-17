@@ -7,7 +7,7 @@
 - [x] TypeScriptの設定
 - [x] ESLint, Prettierの設定
 - [x] VSCode設定（推奨拡張機能等）
-- [ ] GitHub Actionsの設定
+- [x] GitHub Actionsの設定
 
 ### 1.2 UIライブラリのセットアップ
 - [ ] Tailwind CSSのインストールと設定
