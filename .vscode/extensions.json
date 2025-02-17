@@ -1,0 +1,18 @@
+{
+  "recommendations": [
+    // 必須拡張機能
+    "biomejs.biome",
+    "dbaeumer.vscode-eslint",
+    "bradlc.vscode-tailwindcss",
+    // Remix開発支援
+    "remix.remix",
+    "prisma.prisma",
+    // Git関連
+    "eamodio.gitlens",
+    "mhutchie.git-graph",
+    // 便利な拡張機能
+    "formulahendry.auto-rename-tag",
+    "christian-kohler.path-intellisense",
+    "streetsidesoftware.code-spell-checker"
+  ]
+}
