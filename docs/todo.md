@@ -19,7 +19,7 @@
 - [x] @supabase/supabase-js のインストール
 - [x] Supabaseクライアントの設定
 - [x] データベース型定義の作成
-- [ ] テーブル作成用SQLの作成
+- [x] テーブル作成用SQLの作成
 - [ ] Supabaseプロジェクトの作成
   - [ ] プロジェクトの作成
   - [ ] API keyの発行
