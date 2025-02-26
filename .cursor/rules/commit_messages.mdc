@@ -1,3 +1,7 @@
+---
+description: Rules for writing commit messages. These rules ensure consistent and meaningful commit history by following the Conventional Commits specification.
+globs: *
+---
 # Commit Messages
 
 1. **Language**: Use English for commit messages

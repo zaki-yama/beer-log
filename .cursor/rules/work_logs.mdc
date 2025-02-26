@@ -1,3 +1,7 @@
+---
+description: Instructions for creating and maintaining work logs. These rules ensure proper documentation of development sessions, including work done, impressions, and future plans.
+globs: docs/work-logs/*.md
+---
 # Work Logs
 
 1. **Creation Timing**:
