@@ -1,6 +1,7 @@
 ---
 description: Guidelines for the development process, including task management and code change procedures. These rules help maintain a structured and organized development workflow.
 globs: *
+alwaysApply: false
 ---
 # Development Workflow
 
