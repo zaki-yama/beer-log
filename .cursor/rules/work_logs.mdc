@@ -1,18 +1,31 @@
 ---
-description: Instructions for creating and maintaining work logs. These rules ensure proper documentation of development sessions, including work done, impressions, and future plans.
+description: 開発セッションの記録方法についてのルール。作業内容、所感、次回の予定を適切に記録するためのガイドライン。
 globs: docs/work-logs/*.md
----
-# Work Logs
+alwaysApply: false
+----
 
-1. **Creation Timing**:
-   - At the end of each development session, conduct a retrospective
-   - Create a work log file with the current date (e.g. `2025-02-23.md`) in the `docs/work-logs` directory
+# 作業ログのルール
+1. **作成タイミング**:
+   - ユーザーが作業終了を宣言した時点で作業ログを作成する
+   - 日付が明示されていない場合は、ユーザーに確認する
 
-2. **Content Structure**:
-   The work log should include:
-   1. **作業内容**: Brief description of the work done today
-   2. **所感**: First, discuss impressions and feedback in a dialogue format, then summarize the discussion
-   3. **次回の作業予定**: Brief description of planned work for the next session
+2. **ファイルの作成**:
+   - 場所: `docs/work-logs/`ディレクトリ
+   - ファイル名: `YYYY-MM-DD.md`形式（例：`2024-03-05.md`）
 
-3. **Commit Process**:
-   - Commit the work log with the message format: `docs: add work log for YYYY-MM-DD`
+3. **作業ログの構成**:
+   1. **作業内容**
+      - アシスタントが記述
+      - その日の作業内容を簡潔に説明
+
+   2. **次回の作業予定**
+      - アシスタントが記述
+      - 次のセッションで行う予定の作業を箇条書きで記載
+
+   3. **所感**
+      - アシスタントとユーザーで対話形式でふりかえりを行う
+      - 対話の内容を記録
+      - 最後に主なポイントをまとめとして記載
+
+4. **コミット**:
+   - コミットメッセージ: `docs: add work log for YYYY-MM-DD`
